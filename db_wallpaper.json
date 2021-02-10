@@ -25,23 +25,7 @@
 
 "More":
   [ 
-    {
-    "id":1,
-    "judul":"Ludo King",
-    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-  },
-  {
-    "id":2,
-    "judul":"Homescapes",
-    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-  },
-  {
-    "id":3,
-    "judul":"Minecraft",
-    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+
   }
 
   ],
@@ -49,23 +33,317 @@
   "Categories": [
     {
       "id": 1,
-      "nama_cat": "Dragon Ball",
-      "gambar": "https://www.mainmain.id/uploads/post/2019/04/27/Dragon_ball_Super_Z.jpg"
-     
+      "name_category": "Zetsu",
+      "image": "https://1.bp.blogspot.com/-qgl2J92hWQk/YCODAndE-HI/AAAAAAAAAC8/HQM7ItMoqjsXvLxfolQ0zvoXtM48YEQUACNcBGAsYHQ/s436/Zetsu.jpg"
+
     },
     {
       "id": 2,
-      "nama_cat": "Naruto",
-      "gambar": "https://cdn1-production-images-kly.akamaized.net/dVqITqcu9gJfpnWOgPEaAfol0eM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/653825/original/naruto-anime-naruto-33923256-1920-1080.jpg"
-    
+      "name_category": "Zabuza Momochi",
+      "image": "https://1.bp.blogspot.com/-NIQR50AyAGo/YCODAQ0dIVI/AAAAAAAAAC4/qdnI3fyd_IALA1BQthf4xmPZIdXUVc28QCNcBGAsYHQ/s768/Zabuza%2BMomochi.jpg"
+
     },
     {
       "id": 3,
-      "nama_cat": "One Piece",
-      "gambar": "https://cdn.idntimes.com/content-images/duniaku/post/20200404/one-piece-sanji-zoro-jinbe-4690e6c5f37b3a36951f5dfa8dfd30c3_600x400.jpg"
-    
+      "name_category": "Yamato",
+      "image": "https://1.bp.blogspot.com/-uVTjjxpbUXM/YCODAOUrpbI/AAAAAAAAAC0/trTEXmvvaTYZvCFy-Qp9BMVc04xWz05CgCNcBGAsYHQ/s720/Yamato.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Tsunade Senju",
+      "image": "https://1.bp.blogspot.com/-SbM9DJs4UX4/YCODADYM8nI/AAAAAAAAACw/J-ZUP6UfLXkg8OTlgaIT-i99Q5borIjqgCNcBGAsYHQ/s733/Tsunade%2BSenju.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Tobirama Senju",
+      "image": "https://1.bp.blogspot.com/-5buzuzjqzh4/YCOC_23vmXI/AAAAAAAAACs/LO0Mm6fEB500dImD96xXsUbCrlucETd0gCNcBGAsYHQ/s831/Tobirama%2BSenju.jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "Tenten",
+      "image": "https://1.bp.blogspot.com/-1p-nh9GJDGU/YCOC_x1M0pI/AAAAAAAAACo/TTO753Q97MMAdlY1DCIneuK5euqU2Cp2ACNcBGAsYHQ/s776/Tenten.jpg"
+
+    },
+    {
+      "id": 7,
+      "name_category": "Temari",
+      "image": "https://1.bp.blogspot.com/-PoVq1bh8Tk0/YCOC_oezfUI/AAAAAAAAACk/C847P4jUwU06Ijfxyy4XyN47tthVVk1BwCNcBGAsYHQ/s738/Temari.jpg"
+
+    },
+    {
+      "id": 8,
+      "name_category": "Shizune",
+      "image": "https://1.bp.blogspot.com/-I19WOu89o7M/YCOC_YYu6TI/AAAAAAAAACg/TIu3jzubssw0YhrnUV2zSQLZ-FyYyYj-QCNcBGAsYHQ/s369/Shizune.jpg"
+
+    },
+    {
+      "id": 9,
+      "name_category": "Shino Aburame",
+      "image": "https://1.bp.blogspot.com/-A-qFfH-xtaU/YCOC_aguZNI/AAAAAAAAACc/rbWzMZ3kXCAnsYaFZyXKz064J1gPrajYwCNcBGAsYHQ/s812/Shino%2BAburame.jpg"
+
+    },
+    {
+      "id": 10,
+      "name_category": "Shikamaru Nara",
+      "image": "https://1.bp.blogspot.com/-igU8w-dpacQ/YCOC_PPJ0xI/AAAAAAAAACY/820sAERsGqcrkh56_Q9tGvW5zxaUYZSLgCNcBGAsYHQ/s228/Shikamaru%2BNara.jpg"
+
+    },
+    {
+      "id": 11,
+      "name_category": "Sasuke Uchiha",
+      "image": "https://1.bp.blogspot.com/-VvLtZ_jiwNQ/YCOC-yW_OSI/AAAAAAAAACU/_zrYuwBtKKYQ6laiNqLjxoz4yyRFWrd8QCNcBGAsYHQ/s334/Sasuke%2BUchiha.jpg"
+
+    },
+    {
+      "id": 12,
+      "name_category": "Sasori",
+      "image": "https://1.bp.blogspot.com/-sgVDcbRB3Kc/YCOC-g31sRI/AAAAAAAAACQ/kXjZ955NSQ8EKsh3FBK9LQV1DSBmAnPaQCNcBGAsYHQ/s843/Sasori.jpg"
+
+    },
+    {
+      "id": 13,
+      "name_category": "Sakura Haruno",
+      "image": "https://1.bp.blogspot.com/-sRTgM0Y6I2A/YCOC-ockA4I/AAAAAAAAACM/fDmF3nntffo0PJKJLwOSDCDe73us7iragCNcBGAsYHQ/s892/Sakura%2BHaruno.jpg"
+
+    },
+    {
+      "id": 14,
+      "name_category": "sakon",
+      "image": "https://1.bp.blogspot.com/-hHeDg6pEEro/YCODBkI9kwI/AAAAAAAAADU/2i4kX11zcXUJfhsWaPQ4Nv6Wbq_tVWGtQCNcBGAsYHQ/s319/sakon.jpg"
+
+    },
+    {
+      "id": 15,
+      "name_category": "Sai",
+      "image": "https://1.bp.blogspot.com/-KK1qvWdBjeg/YCOC-WbAS3I/AAAAAAAAACI/UQ8ErizfebQ33TEHUOQe-aNNcJ41oBAXQCNcBGAsYHQ/s886/Sai.jpg"
+
+    },
+    {
+      "id": 16,
+      "name_category": "Rock Lee",
+      "image": "https://1.bp.blogspot.com/-jmKGPrMgvOg/YCOC-De8cDI/AAAAAAAAACE/4zbqFuvCUdonRdV75-u0mmXaAhCqJCGzACNcBGAsYHQ/s690/Rock%2BLee.jpg"
+
+    },
+    {
+      "id": 17,
+      "name_category": "Orochimaru",
+      "image": "https://1.bp.blogspot.com/-xkbj5gbBttk/YCOC90TbLqI/AAAAAAAAACA/7oUOhArNGhkE1IjjTX2pEfnJ_HqmlO3RQCNcBGAsYHQ/s373/Orochimaru.jpg"
+
+    },
+    {
+      "id": 18,
+      "name_category": "Obito Uchiha",
+      "image": "https://1.bp.blogspot.com/-jnr9lmgTQB0/YCOC90rHP_I/AAAAAAAAAB8/2xGV0ZSviKUhRYp64UrKESt3C_3GzVZQACNcBGAsYHQ/s846/Obito%2BUchiha.jpg"
+
+    },
+    {
+      "id": 19,
+      "name_category": "Neji Hyuuga",
+      "image": "https://1.bp.blogspot.com/-_X3hm9anzPM/YCOC9mcSfiI/AAAAAAAAAB4/mrg6ZYHuoS8wjJaHw7YPrdI3UJcBXO7tQCNcBGAsYHQ/s759/Neji%2BHyuuga.jpg"
+
+    },
+    {
+      "id": 20,
+      "name_category": "Naruto Uzumaki",
+      "image": "https://1.bp.blogspot.com/-MNDMqXEcFb4/YCOC9YtX0kI/AAAAAAAAAB0/45qc6YR3X-YeGKTz9tAfiI26pPrCwV8KwCNcBGAsYHQ/s706/Naruto%2BUzumaki.jpg"
+
+    },
+    {
+      "id": 21,
+      "name_category": "Nagato Uzumaki",
+      "image": "https://1.bp.blogspot.com/-AdzPs6C30qk/YCOC9Tz3RhI/AAAAAAAAABw/HOOoJr3nTNYxW25xJAU254LbR15_DYFlACNcBGAsYHQ/s355/Nagato%2BUzumaki.jpg"
+
+    },
+    {
+      "id": 22,
+      "name_category": "Minato Namikaze",
+      "image": "https://1.bp.blogspot.com/-Mporu2grSYI/YCOC9ITaNKI/AAAAAAAAABs/2NQPgQKghsQacu12dMJySre2wvYKmPlRgCNcBGAsYHQ/s799/Minato%2BNamikaze.jpg"
+
+    },
+    {
+      "id": 23,
+      "name_category": "Might Guy",
+      "image": "https://1.bp.blogspot.com/-eu5d_6R9_Jk/YCOC8_-HKPI/AAAAAAAAABo/nEVl18iXFWwgwDw_dMMwMWCQkCCea2XpwCNcBGAsYHQ/s845/Might%2BGuy.jpg"
+
+    },
+    {
+      "id": 24,
+      "name_category": "Madara Uchiha",
+      "image": "https://1.bp.blogspot.com/-9NCDeoPGYrw/YCOC8hZn2JI/AAAAAAAAABk/sAXL7dZQLskPK0t87NnPf8sHmjwcNEeRgCNcBGAsYHQ/s585/Madara%2BUchiha.jpg"
+
+    },
+    {
+      "id": 25,
+      "name_category": "Kushina Uzumaki",
+      "image": "https://1.bp.blogspot.com/-eIXEuRyXpuk/YCOC8hhieNI/AAAAAAAAABg/S54M8bFSDNEVaIg20nIz4O7yjvSDHhJtQCNcBGAsYHQ/s462/Kushina%2BUzumaki.jpg"
+
+    },
+    {
+      "id": 26,
+      "name_category": "Kurenai Yuhi",
+      "image": "https://1.bp.blogspot.com/-mfzAjX7Edb0/YCOC8YKScOI/AAAAAAAAABc/F0mJUZidTcwxZM5PLSWTxqPelRg4BrsygCNcBGAsYHQ/s780/Kurenai%2BYuhi.jpg"
+
+    },
+    {
+      "id": 27,
+      "name_category": "Konohamaru Sarutobi",
+      "image": "https://1.bp.blogspot.com/-XWF_aBE1LiQ/YCOC761yO3I/AAAAAAAAABY/5IZZO4iPVMscSP2z9XrdtAqxc3uRY3MPQCNcBGAsYHQ/s672/Konohamaru%2BSarutobi.jpg"
+
+    },
+    {
+      "id": 28,
+      "name_category": "Konan",
+      "image": "https://1.bp.blogspot.com/-jWLmR49Mjjo/YCODBpDQKwI/AAAAAAAAADQ/rUrkUVS12Rgnh5iEzSIxHz6YbUFTKw8RwCNcBGAsYHQ/s756/konan.jpg"
+
+    },
+    {
+      "id": 29,
+      "name_category": "Kisame Hoshigaki",
+      "image": "https://1.bp.blogspot.com/-RNv7bz_AhHg/YCOC7bFv58I/AAAAAAAAABU/w3DJzJlAZBYwO9-hjoG2gSIxqWO7MzpzgCNcBGAsYHQ/s331/Kisame%2BHoshigaki.jpg"
+
+    },
+    {
+      "id": 30,
+      "name_category": "Killer Bee",
+      "image": "https://1.bp.blogspot.com/-DL8yVqPA4MY/YCOC68up99I/AAAAAAAAABQ/RpobPxY4ogcYJggoS-aJ6udlsISmc19ngCNcBGAsYHQ/s625/Killer%2BBee.jpg"
+
+    },
+    {
+      "id": 31,
+      "name_category": "Kiba Inuzuka",
+      "image": "https://1.bp.blogspot.com/-HJogkYiGB6M/YCOC6ceIinI/AAAAAAAAABM/QKxULNp-jR8Te7-mdmBIG8owArUM8_74wCNcBGAsYHQ/s284/Kiba%2BInuzuka.jpg"
+
+    },
+    {
+      "id": 32,
+      "name_category": "Karui",
+      "image": "https://1.bp.blogspot.com/-5d198k_3SRI/YCODBfb57-I/AAAAAAAAADM/tuPvigVGo14IcMQim_hGT-K4YpA6JbH1QCNcBGAsYHQ/s930/karui.jpg"
+
+    },
+    {
+      "id": 33,
+      "name_category": "Karin Uzumaki",
+      "image": "https://1.bp.blogspot.com/-Fo6WdoFflsI/YCOC59yF4nI/AAAAAAAAABI/j3w3_nRTvckj3sAji2A06rlwzuTafTzYQCNcBGAsYHQ/s536/Karin%2BUzumaki.jpg"
+
+    },
+    {
+      "id": 34,
+      "name_category": "Kankuro",
+      "image": "https://1.bp.blogspot.com/-1hx9VbQE1wo/YCOC5tYcrgI/AAAAAAAAABE/o6nL48Vajkw8nbDnn0KM6cV8n00NnUA4ACNcBGAsYHQ/s726/Kankuro.jpg"
+
+    },
+    {
+      "id": 35,
+      "name_category": "Kakuzu",
+      "image": "https://1.bp.blogspot.com/-29uUDucve6c/YCOC5rKtzCI/AAAAAAAAABA/hKOQwWKn1vU0nCyCZVUikegZro7l44-7QCNcBGAsYHQ/s849/Kakuzu.jpg"
+
+    },
+    {
+      "id": 36,
+      "name_category": "Kakashi Hatake",
+      "image": "https://1.bp.blogspot.com/-MeM3tFNvx00/YCOC5RO3OTI/AAAAAAAAAA8/SSbcXE1MwCQWZukTB_VCjSmD70rjyARDwCNcBGAsYHQ/s664/Kakashi%2BHatake.jpg"
+
+    },
+    {
+      "id": 37,
+      "name_category": "Kabuto Yakushi",
+      "image": "https://1.bp.blogspot.com/-AS4zfO4M0ZQ/YCOC4zQ3CrI/AAAAAAAAAA4/UFeOlzl_vjgmH0OsJKUc1gWhzTd5W1afgCNcBGAsYHQ/s699/Kabuto%2BYakushi.jpg"
+
+    },
+    {
+      "id": 38,
+      "name_category": "Jiraiya",
+      "image": "https://1.bp.blogspot.com/-KwaCutAEGIU/YCOC4yn5tyI/AAAAAAAAAA0/iSW0NGkCjAEopBotYZZP2rKPWkHT6XaVACNcBGAsYHQ/s784/Jiraiya.jpg"
+
+    },
+    {
+      "id": 39,
+      "name_category": "Itachi Uchiha",
+      "image": "https://1.bp.blogspot.com/-nITygy6JVlI/YCOC44DbITI/AAAAAAAAAAw/ge91OXE_Rl8n9ZF0AQrtCoT8PfFmuJK7gCNcBGAsYHQ/s803/Itachi%2BUchiha.jpg"
+
+    },
+    {
+      "id": 40,
+      "name_category": "Iruka Umino",
+      "image": "https://1.bp.blogspot.com/-a7dYcnBXdD8/YCOC4b39gcI/AAAAAAAAAAo/CrK96Cl4Hh8qd0zJzjY7nBeCcfv-4KUHQCNcBGAsYHQ/s814/Iruka%2BUmino.jpg"
+
+    },
+    {
+      "id": 41,
+      "name_category": "Inoichi yamanaka",
+      "image": "https://1.bp.blogspot.com/-P9pGQZbw1pk/YCODBIvFuqI/AAAAAAAAADI/GCamwfiQqEQzQWbNRM6BnL7fFobegE13ACNcBGAsYHQ/s767/inoichi%2Byamanaka.jpg"
+
+    },
+    {
+      "id": 42,
+      "name_category": "Ino Yamanaka",
+      "image": "https://1.bp.blogspot.com/-zs87JYOrNZo/YCOC36J23QI/AAAAAAAAAAs/vafY_uEoaBY0SDeGhR-UAPc6lGCR_mpBACNcBGAsYHQ/s222/Ino%2BYamanaka.jpg"
+
+    },
+    {
+      "id": 43,
+      "name_category": "Hiruzen Sarutobi",
+      "image": "https://1.bp.blogspot.com/-8c4oF11b_jQ/YCOC3V0QejI/AAAAAAAAAAk/EDSfiO9AQkUGzI7AWBy4FD85XTP7j21dACNcBGAsYHQ/s801/Hiruzen%2BSarutobi.jpg"
+
+    },
+    {
+      "id": 44,
+      "name_category": "Hinata Hyuuga",
+      "image": "https://1.bp.blogspot.com/-2Zyd_dKcnoM/YCOC2zlJqbI/AAAAAAAAAAg/lHaBXD25zyknemuRtGm3YHjH_RtX_fAVwCNcBGAsYHQ/s221/Hinata%2BHyuuga.jpg"
+
+    },
+    {
+      "id": 45,
+      "name_category": "hidan",
+      "image": "https://1.bp.blogspot.com/-k3339QDhONk/YCODAyB6UjI/AAAAAAAAADE/djTY2OXjAXEKe7wzfjLCgvk5ZzRxTh5IgCNcBGAsYHQ/s369/hidan.jpg"
+
+    },
+    {
+      "id": 46,
+      "name_category": "Gaara",
+      "image": "https://1.bp.blogspot.com/-NOh3F_r1MkA/YCOC2jDlsDI/AAAAAAAAAAc/W1nfrYWWXE4OiDYxWWuYvQu6fCT31ImbACNcBGAsYHQ/s285/Gaara.jpg"
+
+    },
+    {
+      "id": 47,
+      "name_category": "Deidara",
+      "image": "https://1.bp.blogspot.com/-mukTFHJuG-g/YCOC2nxUTYI/AAAAAAAAAAY/UnRgdT48mdwm9H3VhOxD8wAPE0ys3gnkACNcBGAsYHQ/s385/Deidara.jpg"
+
+    },
+    {
+      "id": 48,
+      "name_category": "Danzo Shimura",
+      "image": "https://1.bp.blogspot.com/-ReR35o1vPf4/YCOC2MsMCpI/AAAAAAAAAAQ/EhqTRmjkvZoJsqzeYzr1zbiaE9a9Nw-RwCNcBGAsYHQ/s735/Danzo%2BShimura.jpg"
+
+    },
+    {
+      "id": 49,
+      "name_category": "Choji Akimichi",
+      "image": "https://1.bp.blogspot.com/-f6WX12yR8jM/YCOC2KkktZI/AAAAAAAAAAU/AkaQ2bioDcceImBg8meQvRsG6z7Ekg6zgCNcBGAsYHQ/s794/Choji%2BAkimichi.jpg"
+
+    },
+    {
+      "id": 50,
+      "name_category": "Chiyo",
+      "image": "https://1.bp.blogspot.com/-iDRiI_hmNhw/YCODAylDXGI/AAAAAAAAADA/DkaTwX3m2Bgw4QOw-Ule2Y3ilAFY9GiagCNcBGAsYHQ/s863/chiyo.jpg"
+
+    },
+    {
+      "id": 51,
+      "name_category": "Asuma Sarutobi",
+      "image": "https://1.bp.blogspot.com/-axjFMiD9lS8/YCOC2HkCe4I/AAAAAAAAAAM/JPwiWUG1oCAdXfNcjruPJ_E3XxXPUHw2ACNcBGAsYHQ/s766/Asuma%2BSarutobi.jpg"
+
+    },
+    {
+      "id": 52,
+      "name_category": "Other",
+      "image": "https://1.bp.blogspot.com/-mn_1gTpnHmk/YCOF1j3W8JI/AAAAAAAAAD4/2lwjGlqluqsCJJ1YYBrpI8lY6AobDpisACNcBGAsYHQ/s320/other.jpg"
+
     }
-  ],
+
 
   "Wallpaper":
   [ 
