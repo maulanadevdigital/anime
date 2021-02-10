@@ -19,13 +19,11 @@
       "packagename": "com.maulanadigital.animewallpapers"
     }
   ],
-
-"More":
-  [ 
-
+  "More":
+  [
 
   ],
-  
+
   "Categories": [
     {
       "id": 1,
@@ -342,7 +340,7 @@
   ],
 
   "Data":
-  [ 
+  [
     {
       "id":1,
       "name_category": "Other",
